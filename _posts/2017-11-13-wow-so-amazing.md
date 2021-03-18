@@ -1,18 +1,18 @@
 ---
-title:  "学员感想 | 哇！好有趣的一群灵魂！"
-subtitle: ":)"
-author: "codingirlsclub"
+title:  "有爱的SC team"
+subtitle: "to Wanyu, Yimin, Mingxin and Xuan"
+author: "Tianni"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/500.jpg"
+image: "assets/images/WechatIMG154.jpg"
 ---
 
-**文 | 苏倩文**  
-**图 | Coding Girls Club笛**  
+**文 | Tianni**  
+**图 | Tianni**  
 
-> 哇！好有趣的一群灵魂！
->         --- 这是来自2017成都站的小姐姐的感想
+> hahaha
+>         --- will you miss me
 
-_2017.10.29_
+_2021.3.18_
 最早知道Girls Coding Day这个活动是远在上海的小伙伴特意推给我的，叫我一定一定一定要参加！果然，现在距离活动完满结束已经过去好几天了，我仍旧处在一种特别兴奋的状态里。  
 
 感觉自己特别特别幸运，认识了一群有趣的充满向上心，一群自我驱动力超强的小伙伴，打开了一扇新世界的大门。  
