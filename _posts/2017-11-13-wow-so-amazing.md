@@ -2,8 +2,8 @@
 title:  "有爱的SC team"
 subtitle: "to Wanyu, Yimin, Mingxin and Xuan"
 author: "Tianni"
-avatar: "assets/images/WechatIMG154.jpg"
-image: "assets/images/WechatIMG154.jpg"
+avatar: "assets/images/WechatIMG154.jpeg"
+image: "assets/images/WechatIMG154.jpeg"
 ---
 
 **文 | Tianni**  
